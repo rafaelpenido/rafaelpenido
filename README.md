@@ -19,4 +19,4 @@
    ![Snake animation](https://github.com/rafaelpenido/rafaelpenido/blob/output/github-contribution-grid-snake.svg)
     </div>
   
-  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://c.tenor.com/n56bwNKJ0qIAAAAC/rey.gif)
+  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://c.tenor.com/5W98dXUd9VoAAAAC/rei-ayanami-rei.gif)
