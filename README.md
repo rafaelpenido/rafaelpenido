@@ -1,7 +1,7 @@
-### Oi, eu sou o Rafo ✌🏻
+### Oi, eu sou o Rafa
 
 - 📚👨🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 👾 Fato curioso: amo jogos online
+- 👾 Fatos curiosos: amo jogos online e animes
 
 <div align="center">
   <a href="https://github.com/rafaelpenido">
