@@ -7,7 +7,7 @@
 
 <br>
 
-- Estudante de Análise e Desenvolvimento de Sistemas (ADS) 🎓
+- Formado em Análise e Desenvolvimento de Sistemas - PUC Minas 🎓
 - Desenvolvedor web front-end 🌐
 - Mais sobre mim em meu [Portfólio](https://rafaelpenido.github.io/rafaelpenido/) 👩‍💻
 
