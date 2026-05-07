@@ -8,6 +8,6 @@
 <br>
 
 - Formado em Análise e Desenvolvimento de Sistemas - PUC Minas 🎓
-- Desenvolvedor Salesforce
+- Analista Desenvolvedor na AI/R Everymind | Salesforce ☁️
 
 ![Gif](IYE7.gif)
