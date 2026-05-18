@@ -7,7 +7,7 @@
 
 <br>
 
-- Formado em Análise e Desenvolvimento de Sistemas - PUC Minas 🎓
-- Analista Desenvolvedor na AI/R Everymind | Salesforce ☁️
+- Analista e Desenvolvedor de Sistemas pela PUC Minas 🎓
+- Analista e Desenvolvedor na AI/R Everymind | Salesforce ☁️
 
 ![Gif](IYE7.gif)
