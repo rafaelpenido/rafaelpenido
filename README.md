@@ -8,6 +8,6 @@
 <br>
 
 - Analista e Desenvolvedor de Sistemas pela PUC Minas 🎓
-- Analista e Desenvolvedor na AI/R Everymind | Salesforce ☁️
+- Desenvolvedor Salesforce na AI/R Everymind ☁️
 
 ![Gif](IYE7.gif)
