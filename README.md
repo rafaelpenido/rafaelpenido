@@ -8,6 +8,6 @@
 <br>
 
 - Analista e Desenvolvedor de Sistemas pela PUC Minas 🎓
-- Desenvolvedor Salesforce na AI/R Everymind ☁️
+- Desenvolvedor Salesforce na NTT DATA ☁️
 
 ![Gif](IYE7.gif)
